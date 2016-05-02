@@ -12,6 +12,10 @@ if (math === "subtract") {
 	console.log(num1 - num2);
 }
 
+if (math === "multiply") {
+	console.log(num1 * num2);
+}
+
 else if (math === "divide") {
 	console.log (num1 / num2)
 }
