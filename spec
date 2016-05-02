@@ -16,4 +16,9 @@ it ("can multiply two numbers together", function() {
  	expect(math.multiply(3,5)).toBe(15);
 });
 
+describe ("A program that does basic division", function() {
+it ("can divide two numbers together", function() {
+ 	expect(math.divide(3,5)).toBe(.6);
+});
+
 });
